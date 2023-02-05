@@ -1,0 +1,2 @@
+# Openmmlab-
+这是一个采用openmmlab/mmclassfication进行分类的一个example
