@@ -4,3 +4,5 @@
 链接：https://pan.baidu.com/s/18sGcl3bqvXgbJNNBjI6WRg?pwd=9k13 
 提取码：9k13 
 解压放入classfication/data/即可
+
+配置文件后缀为.py
